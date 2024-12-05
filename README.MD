@@ -59,6 +59,7 @@ Avec un repo _https://github.com/miage3-ae/miage-numres-step2a_ alors l'url est 
 1. Tester la recupération des propositions d'une question :  ```curl -w "\n" http://localhost:8080/quizz/questions/1/proposals ```
 1. Tester l'evaluation des reponses : ```curl -w "\n" http://localhost:8080/quizz/proposals/evaluate  -H 'accept: application/json'  -H 'content-type: application/json; charset=UTF-8' --data-raw '[{"id":1},{"id":2}]' ```
 1. Répondre aux questions Q1,Q2 et Q3 du fichier **_Questions.md_**
+1. Commiter  & Pusher le fichier **_Questions.md_**
 
 # Evaluer l'existant
 ## En mode JVM
@@ -69,7 +70,8 @@ Avec un repo _https://github.com/miage3-ae/miage-numres-step2a_ alors l'url est 
     1. Liste des questions : `curl -w "\nTime: %{time_total}s\nSize: %{size_download} bytes\n" http://localhost:8080/quizz/questions`
     1. Liste des propositions : `curl -w "\nTime: %{time_total}s\nSize: %{size_download} bytes\n" http://localhost:8080/quizz/questions/1/proposals`
     1. Evaluation des réponses : `curl -w "\nTime: %{time_total}s\nSize: %{size_download} bytes\n" http://localhost:8080/quizz/proposals/evaluate  -H 'accept: application/json'  -H 'content-type: application/json; charset=UTF-8' --data-raw '[{"id":1},{"id":2}]'`
-
+1. Répondre aux questions Q4,Q5,Q6 et Q7 du fichier **_Questions.md_**
+1. Commiter  & Pusher le fichier **_Questions.md_**
 
 ## En mode Natif
 
