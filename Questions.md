@@ -10,14 +10,29 @@ Réponse:
 # Q4 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM ?
 Réponse:
 
-#Q5: Quel est le temps et la taille de la réponse  de la méthode qui liste les questions
+# Q5: Quel est le temps et la taille de la réponse  de la méthode qui liste les questions
 Temps:
 Taille:
 
-#Q6: Quel est le temps et la taille de la réponse  de la méthode qui liste les propositions d'une question
+# Q6: Quel est le temps et la taille de la réponse  de la méthode qui liste les propositions d'une question
 Temps:
 Taille:
 
-#Q7: Quel est le temps et la taille de la réponse  de la méthode qui évalue les réponses
+# Q7: Quel est le temps et la taille de la réponse  de la méthode qui évalue les réponses
+Temps:
+Taille:
+
+# Q8 : Empreinte mémroire en mode natif ?
+Réponse:
+
+# Q9: Temps et  taille  réponse   liste les questions
+Temps:
+Taille:
+
+# Q10: Temps et  taille  réponse  liste des propositions
+Temps:
+Taille:
+
+# Q11: Temps et  taille  réponse  évaluation les réponses
 Temps:
 Taille:

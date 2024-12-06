@@ -12,7 +12,7 @@ Vous devez réutiliser le compte que vous avez crée durant la première séance
 
 ## Déroulement
 
-Comme au premier TP, vous devez suivre le même processus que pour contribuer à projet:
+Comme au premier TP, vous devez suivre le même processus que pour contribuer à un projet:
 1. Dupliquer (**Forker**) le projet github
 1. Modifier / compléter des fichier du repo. forké
 1. Commiter vos modifs sur votre repo.
@@ -73,7 +73,15 @@ Avec un repo _https://github.com/miage3-ae/miage-numres-step2a_ alors l'url est 
 1. Répondre aux questions Q4,Q5,Q6 et Q7 du fichier **_Questions.md_**
 1. Commiter  & Pusher le fichier **_Questions.md_**
 
-## En mode Natif
+## En mode Natif (Optionnel)
+1. Construire l'application en mode Natif
+1. Lancer l'applicatif construit : `./target/api-quarkus-1.0.0-SNAPSHOT-runner`
+1. Répondre aux questions Q8 à Q11 du fichier **_Questions.md_**
+1. Commiter  & Pusher le fichier **_Questions.md_**
+
+
+# Amélioration
+
 
 # Commandes Utiles
 * ```./mvnw clean compile ``` : Compilation du projet
