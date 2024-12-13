@@ -15,6 +15,7 @@ public class ProposalDto {
     public ProposalDto(){}
 
     public ProposalDto(Proposal p, String lg){
+        id = p.id;
         translations =  new ArrayList<>();
         translations.add(new TranslationDto(p,lg));
     }

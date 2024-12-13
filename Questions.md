@@ -22,7 +22,7 @@ Taille:
 Temps:
 Taille:
 
-# Q8 : Empreinte mémroire en mode natif ?
+# Q8 : Empreinte mémoire en mode natif ?
 Réponse:
 
 # Q9: Temps et  taille  réponse   liste les questions

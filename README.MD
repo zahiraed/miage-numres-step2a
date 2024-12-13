@@ -82,7 +82,24 @@ Avec un repo _https://github.com/miage3-ae/miage-numres-step2a_ alors l'url est 
 
 # Amélioration
 
-TODO - à DETAILLER
+Vous devez désormais regarder / analyser / critiquer / améliorer le code existant en appliquant les bonnes pratiques d'éco-conception.
+Pour faire vos tests,  vous pouvez lancer l'application en mode ** dev **.
+Le log des requêtes SQL est activé.
+
+Pour chacune des propositions que vous faites, vous devez :
+  1. Decrire la proposition dans le fichier **_Questions.md_**
+  1. Implementer votre proposition
+  1. Tester la proposition
+  1. Mesurer et tracer les mesures dans le fichier **_Questions.md_**
+  1. Commiter  & Pusher le code et le  fichier **_Questions.md_**
+
+## Proposition 1
+
+## Proposition 2
+
+## Proposition 3
+
+## Proposition 4
 
 
 # Pull Request

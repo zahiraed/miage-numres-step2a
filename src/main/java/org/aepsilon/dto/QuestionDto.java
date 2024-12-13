@@ -14,6 +14,7 @@ public class QuestionDto {
     public QuestionDto(){}
 
     public QuestionDto(Question q,String lg){
+        id = q.id;
         translations =  new ArrayList<>();
         translations.add(new TranslationDto(q,lg));
     }
