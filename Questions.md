@@ -36,3 +36,23 @@ Taille:
 # Q11: Temps et  taille  réponse  évaluation les réponses
 Temps:
 Taille:
+
+# Q12:  Proposition 1
+Description:
+Temps:
+Taille:
+
+# Q13:  Proposition 2
+Description:
+Temps:
+Taille:
+
+# Q14:  Proposition 3
+Description:
+Temps:
+Taille:
+
+# Q15:  Proposition 4
+Description:
+Temps:
+Taille:

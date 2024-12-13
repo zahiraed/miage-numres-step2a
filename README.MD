@@ -94,13 +94,16 @@ Pour chacune des propositions que vous faites, vous devez :
   1. Commiter  & Pusher le code et le  fichier **_Questions.md_**
 
 ## Proposition 1
+Suivez les étapes ci-desus et répondre à Q12  du fichier fichier **_Questions.md_**
 
 ## Proposition 2
+Suivez les étapes ci-desus et répondre à Q13  du fichier fichier **_Questions.md_**
 
 ## Proposition 3
+Suivez les étapes ci-desus et répondre à Q14  du fichier fichier **_Questions.md_**
 
 ## Proposition 4
-
+Suivez les étapes ci-desus et répondre à Q15  du fichier fichier **_Questions.md_**
 
 # Pull Request
 Une fois tous vos commits & Push réalisés sur votre repo, il est nécessaire de faire la **Pull Request** sur le repo **parent**.
