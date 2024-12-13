@@ -112,6 +112,9 @@ Pour cela, il suffit de :
 1. Sur la page principale, se rendre sur `Contribute` > `Open pull Request`
 1. Remplir le titre de la pull request en précisant votre nom (vos noms) et `Create pull request`
 
+# Bascule sur le projet 2b
+Lire & suivre les instructions du fichier  README de https://github.com/aepsilon-tek/miage-numres-step2b
+
 # Commandes Utiles
 * ```./mvnw clean compile ``` : Compilation du projet
 * ```./mvnw quarkus:dev``` : Lancement du projet en mode developpement
