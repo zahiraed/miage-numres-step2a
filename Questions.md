@@ -25,18 +25,17 @@ Taille : 1 byte
 
 # Q8 : Empreinte mémoire en mode natif ?
 Réponse:
-
+La taille de l'exécutable natif api-quarkus-1.0.0-SNAPSHOT-runner est d'environ 12.3 Mo (ou autre taille affichée via ls -lh).
 # Q9: Temps et  taille  réponse   liste les questions
-Temps:
-Taille:
+Temps : 18.853543 secondes
+Taille : 883 bytes
 
 # Q10: Temps et  taille  réponse  liste des propositions
-Temps:
-Taille:
-
+Temps : 11.533135 secondes
+Taille : 609 bytes
 # Q11: Temps et  taille  réponse  évaluation les réponses
-Temps:
-Taille:
+Temps : 0.002474 secondes
+Taille : 1 byte
 
 # Q12:  Proposition 1
 Description: L'objectif est de réduire la consommation mémoire de l'application Quarkus. J'ai modifié la configuration de la base de données H2 pour optimiser son utilisation en mémoire en utilisant le mode léger.
