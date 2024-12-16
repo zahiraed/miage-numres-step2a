@@ -1,12 +1,12 @@
 # Q1 : Décrire ce que renvoie la méthode qui liste les questions ?
 Réponse:
-
+L'API permet de lister les questions via l'endpoint /quizz/questions. Les questions sont retournées sous forme de liste JSON.
 # Q2 : Décrire ce que renvoie la méthode qui liste les propositions d'une question ?
 Réponse:
-
+Pour récupérer les propositions, il suffit d'appeler l'endpoint /quizz/questions/{id}/proposals où {id} est l'ID de la question.
 # Q3 : Décrire ce que renvoie la méthode qui évalue des réponses ?
 Réponse:
-
+L'évaluation des réponses est réalisée via l'endpoint /quizz/proposals/evaluate, qui prend un tableau d'IDs de propositions et renvoie le résultat.
 # Q4 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM ?
 Réponse:
 
