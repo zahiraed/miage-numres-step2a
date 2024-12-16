@@ -9,18 +9,19 @@ Réponse:
 L'évaluation des réponses est réalisée via l'endpoint /quizz/proposals/evaluate, qui prend un tableau d'IDs de propositions et renvoie le résultat.
 # Q4 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM ?
 Réponse:
-
+RSS : 2332 Ko
+Cette valeur représente la mémoire physique utilisée par le processus Quarkus exécuté en mode JVM.
 # Q5: Quel est le temps et la taille de la réponse  de la méthode qui liste les questions
-Temps:
-Taille:
+Temps : 26.86092 secondes
+Taille : 883 bytes
 
 # Q6: Quel est le temps et la taille de la réponse  de la méthode qui liste les propositions d'une question
-Temps:
-Taille:
+Temps : 14.67699 secondes
+Taille : 767 bytes
 
 # Q7: Quel est le temps et la taille de la réponse  de la méthode qui évalue les réponses
-Temps:
-Taille:
+Temps : 0.019194 secondes
+Taille : 1 byte
 
 # Q8 : Empreinte mémoire en mode natif ?
 Réponse:
@@ -38,9 +39,12 @@ Temps:
 Taille:
 
 # Q12:  Proposition 1
-Description:
-Temps:
+Description: L'objectif est de réduire la consommation mémoire de l'application Quarkus. J'ai modifié la configuration de la base de données H2 pour optimiser son utilisation en mémoire en utilisant le mode léger.
+Temps: 0.123s
 Taille:
+Avant l'optimisation : 2388 Ko (PID : 8175).
+Après l'optimisation : 2232 Ko (PID : 9995).
+Réduction : 156 Ko.
 
 # Q13:  Proposition 2
 Description:
